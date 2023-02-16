@@ -368,6 +368,10 @@ html{
 
 
 @media only screen and (max-width: 426px) {
+  .project_detail{
+    height: auto;
+    padding-bottom: 30px;
+  }
   
   .project_detail .title{
     font-size: 22px;
@@ -899,7 +903,6 @@ html{
 
 @media only screen and (max-width:426px) {
   .contact{
-    height: 100vh;
     padding: 30px;
   }
   
