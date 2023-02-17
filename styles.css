@@ -370,7 +370,7 @@ html{
 @media only screen and (max-width: 426px) {
   .project_detail{
     height: auto;
-    padding-bottom: 30px;
+    padding: 50px 0;
   }
   
   .project_detail .title{
@@ -508,7 +508,7 @@ html{
 
 @media only screen and (max-width:426px) {
   .process{
-    padding: 30px 0;
+    padding: 50px 0;
   }
   
   .process .number{
@@ -754,7 +754,7 @@ html{
     grid-template-rows: 50px 200px 50px 200px;
     position: relative;
     top: 100vh;
-    padding: 30px 30px 60px;
+    padding: 50px 30px 60px;
   }
   
   .achievement2 .txt{
@@ -903,7 +903,7 @@ html{
 
 @media only screen and (max-width:426px) {
   .contact{
-    padding: 30px;
+    padding: 50px 30px;
   }
   
   .contact .title{
