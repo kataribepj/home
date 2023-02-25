@@ -321,11 +321,12 @@ html{
 
 @media only screen and (max-width: 426px) {
   .header_contents .txt{
-    font-size: 22px;
+    font-size: 30px;
     line-height: 1.5;
     text-shadow: 1px 2px 4px #575757;
     top: 40vh;
-    left: 30px;
+    left: 0;
+    padding: 0 30px;
   }
 }
 
